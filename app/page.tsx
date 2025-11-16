@@ -8,7 +8,7 @@ import { useState } from "react";
 const links = [
   {
     title: "Saudi Arabia",
-    url: "https://tundrafile.com/show.php?l=0&u=2413362&id=70436",
+    url: "https://earnmorre-kentfe.blog/UGMNBVCXZLKJUG.html?pid=r_917618428370869",
     image: "/saudiarabia.png",
     description:"دخل رقم هاتفك الآن لبدء التنزيل",
     about:"حمّل أحدث المحتوى"
